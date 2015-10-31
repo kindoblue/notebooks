@@ -1,3 +1,3 @@
-# notebooks
+# ipython notebooks
 
 Exercises for Coding the Matrix course
