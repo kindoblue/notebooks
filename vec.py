@@ -1,4 +1,4 @@
-# Stefano Secondo
+# kindoblue
 
 
 def getitem(v, k):
